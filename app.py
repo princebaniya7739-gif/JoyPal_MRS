@@ -42,8 +42,10 @@ def recommend(movies):
 
 
 
-st.title(":rainbow[Movie Recommendation System:clapper:]")
+st.title(":rainbow[JoyPal MRS:clapper:]")
+
 st.divider(width="stretch")
+st.subheader(":red[A Movie Recommandation System]")
 st.subheader(":yellow[All type of movies are Available:]")
 st.markdown(
     ":violet-badge[ Action] :orange-badge[Thriller]:gray-badge[Horror]:violet-badge[Sci-fy]:red-badge[Love]:orange-badge[Romance]:yellow-badge[Comedy]"
